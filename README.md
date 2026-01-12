@@ -1,16 +1,65 @@
-## Hi there 👋
+## 👋 Hi, I'm Darshan Jethava
 
-<!--
-**darshanJethava/darshanJethava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student  
+💻 Full-Stack Developer (.NET, React, Node.js)  
+📱 Flutter Developer  
 
-Here are some ideas to get you started:
+I enjoy building real-world applications with clean UI and strong backend logic.  
+I focus on writing maintainable code and learning modern web & mobile technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Skills
+
+**Frontend**
+- React.js
+- HTML, CSS, JavaScript
+- Flutter, Dart
+
+**Backend**
+- .NET (C#)
+- Node.js
+- RESTful APIs
+
+**Programming Languages**
+- C
+- C++
+- Java
+- C#
+
+**Database & Tools**
+- SQL
+- MongoDB
+- Git & GitHub
+- Postman
+
+---
+
+### 📂 Projects
+
+- **Quiz Management System** (.NET)  
+  Role-based system with admin and user panels  
+
+- **Jewellery Shop Website**  
+  Product listing, user interaction, and backend integration  
+
+- **Host API** (Node.js)  
+  Secure REST API with authentication and database connectivity  
+
+- **Flutter API-based Applications**  
+  Mobile apps with API integration and clean UI
+
+---
+
+### 🎯 Career Goal
+
+To work as a motivated Full-Stack Developer, building scalable web and application
+solutions. I am passionate about application development and enjoy working on both
+frontend and backend using Flutter, React, Node.js, and modern frameworks.
+
+---
+
+### 📫 Contact
+
+📧 Email: jethvadarshan2006@gmail.com  
+🔗 GitHub: https://github.com/darshanjethava
